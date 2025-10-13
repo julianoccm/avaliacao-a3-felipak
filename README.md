@@ -1,4 +1,6 @@
+<p align="center"> <img src="https://github.com/user-attachments/assets/af35064d-31c5-4f00-941a-37aeee1c54ca"  height="150px"/> </p>
 <h1 align="center">AdsControl</h1>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
